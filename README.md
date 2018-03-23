@@ -1,4 +1,4 @@
-# Original_CR10_Marlin_Firmware_Source
+# The Original CR10 Marlin Firmware Source
 
 
 ###### *This is the ORIGINAL Creality CR10 Firmware Source as Creality installs it.*
