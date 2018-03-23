@@ -1,15 +1,18 @@
 # Original_CR10_Marlin_Firmware_Source
 
-##This is the ORIGINAL Creality CR10 Firmware Source as Creality installs it.
 
-There have been a lot of complaints about Creality not releasing their sources, so... here it is.
+###### *This is the ORIGINAL Creality CR10 Firmware Source as Creality installs it.*
+
+There have been a lot of complaints about Creality not releasing their sources, so... *here it is.*
 
 The only files that have been edited are DOGMbitmaps.h files to remove the Creality3D logo.
-No other changes have been made. It is exactly what Creality installs on the CR10 Melzi.
 
-I will not be making any other changes to this repository.
+No other changes have been made. It is *exactly what Creality installs on the CR10 Melzi.*
 
-Below is a copy of the License portion of the Marlin Firmware readme.
+**I will not be making any other changes to this repository.**
+
+Below is a copy of the License portion of the Marlin Firmware readme, and the reason why this mirror exists.
+
 More information about Marlin Firmware can be found at [MarlinFW.org](http://marlinfw.org) and on their Github page [here] (https://github.com/MarlinFirmware).
 
 ## License
